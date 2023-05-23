@@ -26,7 +26,7 @@ harness = false
 
 [dependencies]
 rand = { version = "0.8.0", default-features = false }
-regex-syntax = { version = "=0.6.26", default-features = false }
+regex-syntax = { version = "=0.7.2", default-features = false }
 
 [dev-dependencies]
 rand = "0.8"
